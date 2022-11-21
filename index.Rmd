@@ -1,6 +1,6 @@
 --- 
 title: "Escuelas de Economía"
-author: "John Doe"
+author: "Red de Estudios Nueva Economía"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
